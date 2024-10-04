@@ -1,4 +1,4 @@
-
+print("hello World")
 produtos = {
     "1": {"nome": "Arroz", "preco": 2.50},
     "2": {"nome": "Feijão", "preco": 3.00},
